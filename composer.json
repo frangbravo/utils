@@ -1,0 +1,23 @@
+{
+    "name": "jopatan/utils",
+    "description": "Package with useful things",
+    "keywords": ["package", "useful", "utils", "simple"],
+    "license": "MIT",
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "Jónatan López",
+            "email": "jopatan.laravel@usal.es"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Jopatan\\Utils": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
