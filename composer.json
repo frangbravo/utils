@@ -2,12 +2,14 @@
     "name": "jopatan/utils",
     "description": "Package with useful things",
     "keywords": ["package", "useful", "utils", "simple"],
+    "homepage": "https://github.com/jopatan/utils",
     "license": "MIT",
     "version": "1.0",
     "authors": [
         {
             "name": "Jónatan López",
-            "email": "jopatan.laravel@usal.es"
+            "email": "jopatan.laravel@gmail.es",
+            "role": "Developer"
         }
     ],
     "require": {
