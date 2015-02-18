@@ -4,7 +4,7 @@
     "keywords": ["package", "useful", "utils", "simple"],
     "homepage": "https://github.com/jopatan/utils",
     "license": "MIT",
-    "version": "1.0",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Jónatan López",
