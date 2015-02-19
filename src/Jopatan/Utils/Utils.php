@@ -3,7 +3,7 @@
 class Utils 
 {
  
-  public static function saludar()
+  public static function main()
   {
   	$a = 3;
   	$b = 2;
